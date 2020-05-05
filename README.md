@@ -22,18 +22,27 @@ Unicode character, symbol, and emoji utility for Windows written in ***AutoHotke
 ### This program is a portable executable that runs in the System Tray. 
 
 - Run the program and it will bring up the display:
+
 ![UI](./images/ui.png)
+
 - Enter either a hexadcimal value or the Unicode symbol in the corresponnding control:
+
 ![UI Where](./images/ui_where.png)
+
 - To send the ui to the System Tray send hotkeys or a button:
+
 ![UI Tray](./images/ui_tray.png)
+
   - Hotkeys
     - Esc
     - Alt+t
   - Button
     - System Tray
+
 - To show the window either right click on the 'UniSym Send' icon in the System Tray and click 'Show UniSym Send' or use a hotkey:
+
 ![UI Tray 2](./images/ui_tray2.png)
+
   - Hotkey
     - Win+Shift+u
 
