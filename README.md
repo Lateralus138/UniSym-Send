@@ -13,7 +13,7 @@ Unicode character, symbol, and emoji utility for Windows written in ***AutoHotke
 
 [Features](#features)<br>
 [Usage](#usage)<br>
-[Motivation](#motivatio)<br>
+[Motivation](#motivation)<br>
 [Project/Downloads](#downloads)<br>
 [Future Updates](#updates)<br>
 [License](#license)
