@@ -71,12 +71,12 @@ There is another tool like this (also written in AutoHotkey) and it works just f
 ### Downloads
 
 - Direct Downloads - Compiled Executables
-  - [UniSym Send X86](./compile/UniSyemSend_x86.exe)
-  - [UniSym Send X64](./compile/UniSyemSend_x64.exe)
-  - [Source Files]()
+  - [UniSym Send X86](https://github.com/Lateralus138/UniSym-Send/releases/download/1.5.4.20/UniSymSend_x86.exe)
+  - [UniSym Send X64](https://github.com/Lateralus138/UniSym-Send/releases/download/1.5.4.20/UniSymSend_x64.exe)
+  - [Source Files](https://github.com/Lateralus138/UniSym-Send/archive/1.5.4.20.zip)
 - Release Pages
-  - [GitHub Release]()
-  - [GitHub Repository]()
+  - [GitHub Release](https://github.com/Lateralus138/UniSym-Send/releases/)
+  - [GitHub Repository](https://github.com/Lateralus138/UniSym-Send/)
 
 ### Future Updates <a name="updates"></a>
 
