@@ -33,7 +33,7 @@ Unicode character, symbol, and emoji utility for Windows written in ***AutoHotke
 
 ![UI](./images/ui.png)
 
-- Enter either a hexadcimal value or the Unicode symbol in the corresponnding control:
+- Enter either a hexadcimal value or the Unicode symbol in the corresponding control:
 
 ![UI Where](./images/ui_where.png)
 
@@ -81,7 +81,7 @@ There is another tool like this (also written in AutoHotkey) and it works just f
 
 ### Future Updates <a name="updates"></a>
 
-I have plans for at least 1 update with a new feature and I'm plannin a 2nd version written in Python.
+I have plans for at least 1 update with a new feature and I'm planning a 2nd version written in Python.
 
   - V1 - Update - AutoHotkey
     - New feature
