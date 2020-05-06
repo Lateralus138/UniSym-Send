@@ -61,6 +61,15 @@ There is another tool like this (also written in AutoHotkey) and it works just f
 
 ## Project/Downloads <a name="downloads"></a>
 
+### This program can be ran in 2 ways:
+
+
+- Compiled executable - portable/single file, no dependencies.
+
+- Source files - requires AutoHotkey to be installed.
+
+### Downloads
+
 - Direct Downloads - Compiled Executables
   - [UniSym Send X86](./compile/UniSyemSend_x86.exe)
   - [UniSym Send X64](./compile/UniSyemSend_x64.exe)
