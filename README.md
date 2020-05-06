@@ -16,7 +16,7 @@ Unicode character, symbol, and emoji utility for Windows written in ***AutoHotke
 [Motivation](#motivation)<br>
 [Project/Downloads](#downloads)<br>
 [Future Updates](#updates)<br>
-[Preview Video](#video)
+[Preview Video](#video)<br>
 [License](#license)
 
 ## Features <a name="features"></a>
@@ -88,7 +88,7 @@ I have plans for at least 1 update with a new feature and I'm plannin a 2nd vers
       - Adding an ComboBox/UpDown control to scroll through values.
   - V2 - Re-Write - Python
 
-### Preview Video On YouTube  <a name="video"></a>
+### Preview Video On YouTube <a name="video"></a>
 
 [Preview](https://youtu.be/aG6kG4aaI9Q)
 
